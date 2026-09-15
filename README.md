@@ -60,3 +60,11 @@ ANPR technology can be used in:
 ## 👨‍💻 Project
 
 This project was developed as an academic project to gain practical experience in computer vision, image processing, object detection, and OCR.
+## Credits & References
+
+- Dataset: [Kaggle Dataset Name](PASTE-KAGGLE-DATASET-LINK)
+- Original Code/Reference: [Kaggle Notebook Name](PASTE-KAGGLE-NOTEBOOK-LINK)
+
+This project was developed for educational purposes. The original
+dataset and code references have been properly credited. I adapted
+and modified the implementation to understand and develop the ANPR system.
